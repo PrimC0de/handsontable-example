@@ -1,0 +1,13 @@
+.highlight-cell {
+    background-color: greenyellow;
+}
+
+.handsontable .htColumnHeader {
+    background-color: #f0f0f0; /* Change this to your desired column header color */
+    color: #333; /* Change this to your desired text color for column headers */
+}
+
+.handsontable .htRowHeader {
+    background-color: #e0e0e0; /* Change this to your desired row header color */
+    color: #333; /* Change this to your desired text color for row headers */
+}
